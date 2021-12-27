@@ -13,7 +13,7 @@ Windows Host to run Kitty and posh-git
 # Scripts
 deploy_command.ps1
 
-#deploy_command.ps1
+# deploy_command.ps1
 * if the command requires a confirmation, you must append \ny to that command. (When typing in powershell)
 * example: copy running-config startup-config\ny
 * This auto accepts the confirmation.
