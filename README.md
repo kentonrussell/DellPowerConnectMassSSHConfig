@@ -17,3 +17,4 @@ deploy_command.ps1
 * if the command requires a confirmation, you must append \ny to that command. (When typing in powershell)
 * example: copy running-config startup-config\ny
 * This auto accepts the confirmation.
+* Comment out line 37 (logout) if you would like the shell to stay open.
